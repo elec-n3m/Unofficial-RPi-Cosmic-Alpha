@@ -10,7 +10,7 @@ As stated before, this is a UNOFFICIAL image. You are welcome to download and tr
 
 # Installation
 
-Download the compressed (3.5GB) file [here](https://rpi-img.electrospek.com/PopOS/popos24.04_Alapha5-RPi5.img.xz).
+Download the compressed (3.5GB) file [here] ##link temporarily not available().
 
 Extract img file from .xz ( This may take a while the image is ~10GB)
 
