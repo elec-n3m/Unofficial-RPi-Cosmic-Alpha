@@ -10,9 +10,9 @@ As stated before, this is a UNOFFICIAL image. You are welcome to download and tr
 
 # Installation
 
-Download the compressed (3.5GB) file [here] ##link temporarily not available().
+Download the compressed (3.5GB) file [here](https://repo.electrospek.com/images/RPi5/PopOS_Cosmic_Alpha7_RPi5.img.gz).
 
-Extract img file from .xz ( This may take a while the image is ~10GB)
+Extract img file from .xz/.gz ( This may take a while the image is ~10GB)
 
 Use [Raspberry Pi's Imager ](https://www.raspberrypi.com/software/)or [Flatpak Verision](https://flathub.org/apps/org.raspberrypi.rpi-imager) to install OS to sdcard.
 
